@@ -1,4 +1,4 @@
-# App Clicker
+# Screen Clicker
 * [General info](#General-info)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
