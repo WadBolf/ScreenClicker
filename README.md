@@ -5,7 +5,7 @@
 * [Usage](#Usage)
 
 ## General info
-This is a small poershell script to aid clicking of multiple on-screen items, this could be used for any apps or games. This example has been setup to click the "ADD ALL" button for all items in the game Phasmophobia.
+This is a small PowerShell script to aid clicking of multiple on-screen items, this could be used for apps or games. This example has been setup to click the "ADD ALL" button for all items in the game Phasmophobia, running at 1920x1080 with 100% Windows desktop screen scaling.
 
 ## Technologies
 This project was created with:
