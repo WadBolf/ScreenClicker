@@ -68,8 +68,9 @@ Add-Type -TypeDefinition $cSource -ReferencedAssemblies System.Windows.Forms,Sys
 $wshell = New-Object -ComObject wscript.shell
 
 # Bring to front and set focus to Phasmophobia.
-# Update this to the name of the app you with to use, 
+# Update this to the name of the app you wish to use, 
 # obviously, the app must already be running.
+# The app name is usually shown in the taskbar.
 $wshell.AppActivate('Phasmophobia')
 
 # Sleep for half a second to allow App window to come into focus, it may be a bit blind :D
