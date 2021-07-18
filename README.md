@@ -1,6 +1,6 @@
 # App Clicker
 * [General info](#general-info)
-* [Technologies]#technologies)
+* [Technologies](technologies)
 * [Setup](#setup)
 
 ## General info
